@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Jane Doe\nSenior Software Engineer\nAcme Technologies\njane.doe@acme.com | (415) 555-0132",
+    "gold": {
+      "name": "Jane Doe",
+      "email": "jane.doe@acme.com",
+      "phone": "(415) 555-0132",
+      "company": "Acme Technologies",
+      "title": "Senior Software Engineer"
+    }
+  },
+  {
+    "text": "Reach out to Michael Chen, our Director of Product, at m.chen@brightlabs.io or call 212-555-9988.",
+    "gold": {
+      "name": "Michael Chen",
+      "email": "m.chen@brightlabs.io",
+      "phone": "212-555-9988",
+      "company": "Brightlabs",
+      "title": "Director of Product"
+    }
+  },
+  {
+    "text": "Best,\nSara\n--\nSara Okafor\nFounder & CEO, Nimbus Systems\nsara@nimbussystems.com",
+    "gold": {
+      "name": "Sara Okafor",
+      "email": "sara@nimbussystems.com",
+      "phone": null,
+      "company": "Nimbus Systems",
+      "title": "Founder & CEO"
+    }
+  },
+  {
+    "text": "Contact: Dr. Raj Patel, raj.patel@gmail.com, +1 650 555 7001",
+    "gold": {
+      "name": "Raj Patel",
+      "email": "raj.patel@gmail.com",
+      "phone": "+1 650 555 7001",
+      "company": null,
+      "title": null
+    }
+  },
+  {
+    "text": "Tom Baker\nMarketing Manager\nPeak Media Group\ntom@peakmedia.co  555.221.7788",
+    "gold": {
+      "name": "Tom Baker",
+      "email": "tom@peakmedia.co",
+      "phone": "555.221.7788",
+      "company": "Peak Media Group",
+      "title": "Marketing Manager"
+    }
+  },
+  {
+    "text": "Our lead data scientist Emily Zhang (emily.zhang@datacorp.com) will present. Phone: (646) 555-3344.",
+    "gold": {
+      "name": "Emily Zhang",
+      "email": "emily.zhang@datacorp.com",
+      "phone": "(646) 555-3344",
+      "company": "Datacorp",
+      "title": "lead data scientist"
+    }
+  }
+]
